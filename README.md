@@ -1,5 +1,5 @@
 # Hello, this is a repository that I used to present my seminar in the Digital Image Processing (PDI) discipline on 10/24/2023. You can view the presentation via PDF. 
-[View Presentation PDF](Slide-Seminário-PDI.pdf)
+[View Presentation PDF](Slide%20Seminário%20PDI.pdf)
 
 
 <h2>It is a website application using React as Front-End, and Python as Back-End, to be able to modify images, with Highlighting, Smoothing, Convolution and Feature Detection.</h2>
